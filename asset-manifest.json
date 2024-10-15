@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ADMIN_MBCMEDGIS/static/css/main.10dd6c6a.css",
+    "main.js": "/ADMIN_MBCMEDGIS/static/js/main.ac710961.js",
+    "index.html": "/ADMIN_MBCMEDGIS/index.html",
+    "main.10dd6c6a.css.map": "/ADMIN_MBCMEDGIS/static/css/main.10dd6c6a.css.map",
+    "main.ac710961.js.map": "/ADMIN_MBCMEDGIS/static/js/main.ac710961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10dd6c6a.css",
+    "static/js/main.ac710961.js"
+  ]
+}
